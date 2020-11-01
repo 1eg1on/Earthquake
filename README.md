@@ -1,0 +1,2 @@
+# Earthquake
+Earthquake Ritcher competition
