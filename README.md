@@ -21,3 +21,6 @@ ensemple over 2x1 over xgb and catboost,depending on which score is higher.
 NN implementation.
 
 Ensembling of many simple 1-pack boostings. Ensemble with RF.
+
+
+TARGET ENCODING. A little bit of mess with preprocessing needed, leakages may occur.
