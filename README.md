@@ -6,9 +6,9 @@ Preprocessing performs the preprocessing of the original data into preprocessed 
 
 Models contains tryouts for models. 
 
-Best pos is 480 now (a little bit tuned xgb).
+Best pos is 295 now (a little bit tuned xgb).
 
-Untested on the platform: /deeper/dubs/sub_xgb_2.csv
+Untested on the platform: None
 
 Further ToDo:
 
